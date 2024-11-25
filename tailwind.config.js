@@ -3,6 +3,13 @@ module.exports = {
   content: ["./src/**/*.{html,jsx}"],
   theme: {
     extend: {
+      width: {
+        "24/25": "96%",
+        "calc-100-minus-20": "calc(100vh - 80px)",
+      },
+      height: {
+        "calc-100-minus-20": "calc(100vh - 80px)",
+      },
       colors: {
         light: {
           primary: "#ebedef",
