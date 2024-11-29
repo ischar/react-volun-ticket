@@ -21,6 +21,7 @@ module.exports = {
           colorCard: "#f6bdbc",
           border: "#746d74",
           input: "#f5f5f5",
+          placeholderText: "#6b7280",
         },
         dark: {
           primary: "#1e1e1e",
@@ -32,6 +33,7 @@ module.exports = {
           colorCard: "#663f3f",
           border: "#4a4a4a",
           input: "#3A3A3C",
+          placeholderText: "#d1d5db",
         },
       },
     },
